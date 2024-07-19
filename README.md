@@ -1,6 +1,6 @@
-                            Dynamic Programming
+                                                            Dynamic Programming
 --------------------------------------------------------------------
-                                QUESTION: 1
+                                                                 QUESTION: 1
 --------------------------------------------------------------------
 Problem Description:
 
@@ -33,7 +33,7 @@ Constraints:
 1 <= coins[i] <= 2^31 - 1
 0 <= amount <= 10^4
 --------------------------------------------------------------------
-                                QUESTION: 2
+                                                                 QUESTION: 2
 --------------------------------------------------------------------                                
 Problem Description:
 
@@ -57,7 +57,7 @@ Constraints:
 1 <= s.length <= 1000
 s consists of only digits and English letters.
 --------------------------------------------------------------------
-                                QUESTION: 3                        
+                                                                 QUESTION: 3                        
 --------------------------------------------------------------------                                
 Problem Description:
 
@@ -87,7 +87,7 @@ Constraints:
 1 <= word.length <= 100
 sequence and word contain only lowercase English letters.
 --------------------------------------------------------------------
-                                QUESTION: 4
+                                                                 QUESTION: 4
 --------------------------------------------------------------------
 Problem Description:
 
@@ -116,7 +116,7 @@ Constraints:
 1 <= nums.length <= 10^5
 -10^4 <= nums[i] <= 10^4
 --------------------------------------------------------------------
-                                QUESTION: 5
+                                                                 QUESTION: 5
 --------------------------------------------------------------------
 Problem Description:
 
