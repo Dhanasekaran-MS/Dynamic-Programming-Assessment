@@ -1,4 +1,6 @@
-                                                            Dynamic Programming
+Question 1 - 5 : Dynamic Programming Problems
+Question 6 - 10 : Hashing Problems
+                                                            
 --------------------------------------------------------------------
                                                                  QUESTION: 1
 --------------------------------------------------------------------
