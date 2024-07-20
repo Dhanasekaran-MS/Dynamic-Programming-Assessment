@@ -1,8 +1,10 @@
 ### Question 1 - 5 : Dynamic Programming Problems
 ### Question 6 - 10 : Hashing Problems
-                                                            
+
+                           DYNAMIC PROGRAMMING          
+
 --------------------------------------------------------------------
-                                                                 QUESTION: 1
+                                QUESTION: 1
 --------------------------------------------------------------------
 Problem Description:
 
@@ -34,8 +36,9 @@ Constraints:
 1 <= coins.length <= 12
 1 <= coins[i] <= 2^31 - 1
 0 <= amount <= 10^4
+
 --------------------------------------------------------------------
-                                                                 QUESTION: 2
+                                QUESTION: 2
 --------------------------------------------------------------------                                
 Problem Description:
 
@@ -58,8 +61,9 @@ Examples:
 Constraints:
 1 <= s.length <= 1000
 s consists of only digits and English letters.
+
 --------------------------------------------------------------------
-                                                                 QUESTION: 3                        
+                                QUESTION: 3                        
 --------------------------------------------------------------------                                
 Problem Description:
 
@@ -88,8 +92,9 @@ Constraints:
 1 <= sequence.length <= 100
 1 <= word.length <= 100
 sequence and word contain only lowercase English letters.
+
 --------------------------------------------------------------------
-                                                                 QUESTION: 4
+                                QUESTION: 4
 --------------------------------------------------------------------
 Problem Description:
 
@@ -117,8 +122,9 @@ Examples:
 Constraints:
 1 <= nums.length <= 10^5
 -10^4 <= nums[i] <= 10^4
+
 --------------------------------------------------------------------
-                                                                 QUESTION: 5
+                                QUESTION: 5
 --------------------------------------------------------------------
 Problem Description:
 
@@ -146,3 +152,78 @@ Examples:
 3. 2 steps + 1 step
 Constraints:
 1 <= n <= 45
+
+                                 HASHING
+
+--------------------------------------------------------------------
+                                QUESTION: 6
+--------------------------------------------------------------------
+Question 1; Two Sums
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same
+element twice.
+You can return the answer in any order.
+
+Example:
+Input: nums = [2,7,11,15], target = 9
+
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+--------------------------------------------------------------------
+                                QUESTION: 7
+--------------------------------------------------------------------
+Question 2: Group Anagrams
+
+Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
+typically using all the original letters exactly once.
+Example:
+Input: strs = ["eat","tea","tan","ate","nat","bat"]
+Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
+
+--------------------------------------------------------------------
+                                QUESTION: 8
+--------------------------------------------------------------------
+Question 3: Longest Substring Without Repeating Characters
+
+Given a string s, find the length of the longest substring without repeating characters.
+
+Example:
+Input: s = "abcabcbb"
+
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
+
+--------------------------------------------------------------------
+                                QUESTION: 9
+--------------------------------------------------------------------
+Question 4: Top K Frequent Elements
+
+Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
+
+Example:
+Input: nums = [1,1,1,2,2,3], k = 2
+
+Output: [1,2]
+
+--------------------------------------------------------------------
+                                QUESTION: 10
+--------------------------------------------------------------------
+Question 5: Valid Anagram
+
+Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
+Example:
+Input: s = "anagram", t = "nagaram"
+
+Output: true
+
+Input: s = "rat", t = "car"
+
+Output: false
+
+
+
